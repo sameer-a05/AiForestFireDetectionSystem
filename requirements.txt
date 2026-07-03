@@ -1,0 +1,6 @@
+planetary-computer
+pystac-client
+rioxarray
+geopandas
+shapely
+matplotlib

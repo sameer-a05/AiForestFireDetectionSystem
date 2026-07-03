@@ -1,0 +1,20 @@
+# Python Data
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Geospatial & Imagery Data (Do not push massive satellite files!)
+*.tif
+*.tiff
+preview.png
+
+# Installers and Archives
+*.sh
+Miniconda*.sh
+*.zip
+
+# macOS specific junk (Crucial for your iPad/Mac setup)
+.DS_Store
+
+# VS Code settings (optional, but good practice)
+.vscode/
