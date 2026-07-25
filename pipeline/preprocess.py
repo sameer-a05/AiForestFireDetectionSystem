@@ -98,3 +98,4 @@ mask_da.values[0] = mask_array
 mask_da.rio.to_raster(output_mask_path)
 print(f"Successfully saved mask to: {output_mask_path}")
 
+
