@@ -4,3 +4,7 @@ rioxarray
 geopandas
 shapely
 matplotlib
+rasterio
+numpy
+xarray
+pytorch
