@@ -6,6 +6,7 @@ __pycache__/
 # Geospatial & Imagery Data (Do not push massive satellite files!)
 *.tif
 *.tiff
+*.npy
 preview.png
 
 # Installers and Archives
@@ -18,3 +19,4 @@ Miniconda*.sh
 
 # VS Code settings (optional, but good practice)
 .vscode/
+data/processed
